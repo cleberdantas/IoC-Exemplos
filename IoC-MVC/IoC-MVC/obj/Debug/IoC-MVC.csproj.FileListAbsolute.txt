@@ -1,0 +1,12 @@
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-MVC\IoC-MVC\obj\Debug\ResolveAssemblyReference.cache
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-MVC\IoC-MVC\bin\IoC-MVC.dll
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-MVC\IoC-MVC\bin\IoC-MVC.pdb
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-MVC\IoC-MVC\bin\EntityFramework.dll
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-MVC\IoC-MVC\bin\EntityFramework.xml
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-MVC\IoC-MVC\obj\Debug\IoC-MVC.dll
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-MVC\IoC-MVC\obj\Debug\IoC-MVC.pdb
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-MVC\IoC-MVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-MVC\IoC-MVC\bin\StructureMap.dll
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-MVC\IoC-MVC\bin\WebActivator.dll
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-MVC\IoC-MVC\bin\StructureMap.pdb
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-MVC\IoC-MVC\bin\StructureMap.xml

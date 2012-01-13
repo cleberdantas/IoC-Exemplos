@@ -1,0 +1,5 @@
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-Injection\IoC-Injection\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-Injection\IoC-Injection\bin\Debug\IoC-Injection.exe
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-Injection\IoC-Injection\bin\Debug\IoC-Injection.pdb
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-Injection\IoC-Injection\obj\x86\Debug\IoC-Injection.exe
+c:\users\cleber\documents\visual studio 2010\Projects\IoC-Injection\IoC-Injection\obj\x86\Debug\IoC-Injection.pdb

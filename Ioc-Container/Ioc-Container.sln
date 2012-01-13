@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ioc-Container", "Ioc-Container\Ioc-Container.csproj", "{BDAB65C4-05D4-4ED8-A5AB-8C97909803DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDAB65C4-05D4-4ED8-A5AB-8C97909803DA}.Debug|x86.ActiveCfg = Debug|x86
+		{BDAB65C4-05D4-4ED8-A5AB-8C97909803DA}.Debug|x86.Build.0 = Debug|x86
+		{BDAB65C4-05D4-4ED8-A5AB-8C97909803DA}.Release|x86.ActiveCfg = Release|x86
+		{BDAB65C4-05D4-4ED8-A5AB-8C97909803DA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

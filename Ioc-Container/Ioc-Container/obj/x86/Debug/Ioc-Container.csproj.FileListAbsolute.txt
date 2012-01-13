@@ -1,0 +1,9 @@
+c:\users\cleber\documents\visual studio 2010\Projects\Ioc-Container\Ioc-Container\bin\Debug\Ioc-Container.exe.config
+c:\users\cleber\documents\visual studio 2010\Projects\Ioc-Container\Ioc-Container\bin\Debug\Ioc-Container.exe
+c:\users\cleber\documents\visual studio 2010\Projects\Ioc-Container\Ioc-Container\bin\Debug\Ioc-Container.pdb
+c:\users\cleber\documents\visual studio 2010\Projects\Ioc-Container\Ioc-Container\bin\Debug\StructureMap.dll
+c:\users\cleber\documents\visual studio 2010\Projects\Ioc-Container\Ioc-Container\bin\Debug\StructureMap.pdb
+c:\users\cleber\documents\visual studio 2010\Projects\Ioc-Container\Ioc-Container\bin\Debug\StructureMap.xml
+c:\users\cleber\documents\visual studio 2010\Projects\Ioc-Container\Ioc-Container\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cleber\documents\visual studio 2010\Projects\Ioc-Container\Ioc-Container\obj\x86\Debug\Ioc-Container.exe
+c:\users\cleber\documents\visual studio 2010\Projects\Ioc-Container\Ioc-Container\obj\x86\Debug\Ioc-Container.pdb
